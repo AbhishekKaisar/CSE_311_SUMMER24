@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif, sans-serif;
-    line-height: 1.6;
+    line-height: 2;
 }
 
 header {
@@ -32,7 +32,7 @@ header {
 }
 
 .nav-links a {
-    color: rgb(199, 143, 143);
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -50,8 +50,8 @@ header {
 
 /* Hero Section */
 .hero {
-    background: url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
-    color: white;
+    background: url('Images/Group-Study\ copy.jpeg') no-repeat center center/cover;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 4rem 2rem;
 }
@@ -61,8 +61,8 @@ header {
 }
 
 .hero .btn {
-    background-color: #f04;
-    color: rgb(174, 59, 59);
+    background-color: rgb(186, 35, 250);
+    color: rgb(235, 235, 235);
     padding: 0.5rem 1rem;
     border: none;
     cursor: pointer;
